@@ -8,4 +8,4 @@ User login: mikegacek</br>
 User password: abc123</br></br>
 
 Admin login: ktaylor</br>
-Admin password: abc123
+Admin password: 123456
